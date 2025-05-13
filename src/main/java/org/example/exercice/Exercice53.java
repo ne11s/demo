@@ -1,6 +1,6 @@
 package org.example.exercice;
 
-public class exercice53 {
+public class Exercice53 {
     public static void main(String[] args) {
 
         //exercice 3
